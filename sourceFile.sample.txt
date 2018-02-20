@@ -1,0 +1,6 @@
+app 1g   = Numbers first
+  maximages = 6
+  icon      = https://avatars1.githubusercontent.com/u/7548378?v=4
+  author    = philiprbrenan
+  email     = philiprbrenan@gmail.com
+
