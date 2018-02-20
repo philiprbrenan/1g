@@ -1,9 +1,8 @@
 #app GoneFishing.l.en  = Gone Fishing in the USA
-app GoneFishing  = Gone Fishing in the USA
+app 1g  = Gone Fishing in the USA
   logoText = Go Fish
   icon   = Striped Bass.jpg
-# author = philiprbrenan
-  author = lspfa
+  author = philiprbrenan
   maximages  = 8
   email  = philiprbrenan@gmail.com
 # email  = bill.gearhart@ryffine.com
